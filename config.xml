@@ -7,7 +7,7 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>PhoneGap Example</name>
+    <name>PP</name>
 
     <description>
         An example for phonegap build docs. 
@@ -22,3 +22,4 @@
       <scheme>pgbw</scheme>
     </gap:url-scheme>
 </widget>
+<preference name="phonegap-version" value="3.7.0" />
